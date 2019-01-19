@@ -1,0 +1,16 @@
+.content {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.counter {
+    text-align: center;
+}
+
+.connect {
+    text-align: center;
+    align-items: center;
+    border: 1px solid;
+    cursor: pointer;
+    font-weight: bold;
+}
